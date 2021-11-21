@@ -11,7 +11,7 @@ import telepot
 token = '2144796660:AAHzUvyl6FIwAmrmEIeEN4fTFOtAr0eFVdA' # telegram token
 receiver_id = 769668880 # https://api.telegram.org/bot<TOKEN>/getUpdates
 camera = 0 # webcam
-weights = 'best_face.pt'
+weights = 'yolov5s.pt'
 width, height = (352, 288) # quality 
 display = False
 
