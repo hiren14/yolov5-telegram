@@ -8,8 +8,8 @@ from utils.general import non_max_suppression
 import telepot
 
 
-token = '123456:YOUROWNTOKENHERE' # telegram token
-receiver_id = 0011112 # https://api.telegram.org/bot<TOKEN>/getUpdates
+token = '2144796660:AAHzUvyl6FIwAmrmEIeEN4fTFOtAr0eFVdA' # telegram token
+receiver_id = 769668880 # https://api.telegram.org/bot<TOKEN>/getUpdates
 camera = 0 # webcam
 weights = 'best_face.pt'
 width, height = (352, 288) # quality 
